@@ -1,8 +1,11 @@
 Python project to download YouTube video from command line
 
-Author: Sundar Srinivasan, Twitter: @krishnasun
+Original Author: Sundar Srinivasan, Twitter: @krishnasun
+Fork by: Giloux
 
 Usage: python youtap.py "<link-to-youtube-video-page>"
+
+More options : python youtap.py -h
 
 License under: Apache License, Version: 2.0
 	(http://www.apache.org/licenses/LICENSE-2.0.html)
